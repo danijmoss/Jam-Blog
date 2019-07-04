@@ -1,6 +1,6 @@
 # Jam Blog
 
-A blog created using the JAM Stack (Vue, Gridsome, Markdown, GraphQL).
+A blog created using the JAM Stack (Vue, Gridsome, Markdown, GraphQL) following the [tutorial on Telerik's website](https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome).
 
 ---
 
