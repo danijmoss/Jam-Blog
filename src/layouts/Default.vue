@@ -12,14 +12,6 @@
   </div>
 </template>
 
-<static-query>
-query {
-  metaData {
-    siteName
-  }
-}
-</static-query>
-
 <style>
 body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -30,20 +22,17 @@ body {
   border: 15px solid #fecd43;
   min-height: 100vh;
 }
-
 .layout {
   max-width: 760px;
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px;
 }
-
 .footer {
   padding-top: calc(30em / 4);
   text-align: center;
   font-size: 1em;
 }
-
 .link {
   border: 2px dashed #fecd43;
   padding: 7px;
