@@ -1,6 +1,6 @@
 # Jam Blog
 
-A blog created using the JAM Stack (Vue, Gridsome, Markdown, GraphQL) following the [tutorial on Telerik's website](https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome).
+A blog created using the JAM Stack (Vue, Gridsome, Markdown, GraphQL) following the [tutorial on Telerik's website](https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome). The purpose of this project was to get exposue to the JAM Stack to understand it's workflow, file structure, and deployment to a server (Netlify).
 
 ---
 
